@@ -11,15 +11,13 @@ This project was completed for project 7 (Neighborhood Maps Project) for Udacity
 
 ## Features
 
-This application displays my favorite theatre's in Boston, MA Theatre District. The location for each theatre is indicated on the Google map with a marker. When the marker is clicked it bounces and opens an info window with the name of the venue, a link to the theatre's website, and an image of the theatre from FourSquare. Click the close button to select another location. Click on the hamburger icon to display a list of all locations. Use the search box to enter the name of the venue. The list is updated with the venue names that match the search criteria. Click the venue name to display the location on the map.
+This application displays my favorite theatres in Boston, MA Theatre District. The location for each theatre is indicated on the Google map with a marker. When the marker is clicked it bounces and opens an info window with the name of the venue, a link to the theatre's website, and an image of the theatre from FourSquare. Click the close button to select another location. Click on the hamburger icon to display a list of all locations. Use the search box to enter the name of the venue. The list is updated with the venue names that match the search criteria. Click the venue name to display the location on the map.
 
 ## Setup
 
 Clone this repo from https://github.com/tnelsonmiller/boston-map-react-app
 * Run npm install
 * Run npm start
-
-To enable a cached version of this project, register the serviceworker by editing the serviceworker.js file.
 
 ## Credits
 
