@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Boch Center - Wang Theatre",
+    "street": "270 Tremont Street",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02116",
+    "url": "http://www.bochcenter.org/",
+    "pos": {"lat": 42.350460, "lng": -71.064278}
+  },
+
+{
+  "name": "Charles Playhouse",
+  "street": "74 Warrenton Street",
+  "city": "Boston",
+  "state": "MA",
+  "zip": "02116",
+  "url": "http://www.charlesplayhouse.com/",
+  "pos": {"lat": 42.349980, "lng": -71.066170}
+},
+
+{
+  "name": "The Wilbur",
+  "street": "246 Tremont Street",
+  "city": "Boston",
+  "state": "MA",
+  "zip": "02116",
+  "url": "https://thewilbur.com/",
+  "pos": {"lat": 42.350710, "lng": -71.064670}
+},
+{
+  "name": "Cutler Majestic Theatre",
+  "street": "219 Tremont Street",
+  "city": "Boston",
+  "state": "MA",
+  "zip": "02116",
+  "url": "https://cutlermajestic.org/",
+  "pos": {"lat": 42.351520, "lng": -71.065580}
+},
+{
+  "name": "Boston Opera House",
+  "street": "539 Washington Street",
+  "city": "Boston",
+  "state": "MA",
+  "zip": "02111",
+  "url": "https://www.bostonoperahouse.com",
+  "pos": {"lat": 42.3542, "lng": -71.0627}
+}
+]
