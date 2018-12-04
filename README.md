@@ -16,8 +16,8 @@ This application displays my favorite theatre's in Boston, MA Theatre District. 
 ## Setup
 
 Clone this repo from https://github.com/tnelsonmiller/boston-map-react-app
-Run npm install
-Run npm start
+* Run npm install
+* Run npm start
 
 To enable a cached version of this project, register the serviceworker by editing the serviceworker.js file.
 
