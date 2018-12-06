@@ -19,9 +19,9 @@ Clone this repo from https://github.com/tnelsonmiller/boston-map-react-app
 * Run npm install
 * Run npm start
 
-This app runs in the production build. To run in development find these commented lines in the src/index.js file and remove the comment marks to register the ServiceWorker: "import * as serviceWorker from './serviceWorker';" and "serviceWorker.register();"
+This app runs in the production build. To run in development and enable caching of this project find these commented lines in the src/index.js file and remove the comment marks to register the ServiceWorker: "import * as serviceWorker from './serviceWorker';" and "serviceWorker.register();"
 
 ## Credits
 
-I was able to complete this project from following the FEND Project 7 Walkthrough by Doug Brown, linked below:
+I followed the FEND Project 7 Walkthrough by Doug Brown, linked below:
 https://www.youtube.com/watch?v=NVAVLCJwAAo&feature=youtu.be
